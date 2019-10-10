@@ -1,7 +1,7 @@
 package bank
 
 type Count struct {
-	EventCount    int
+	EventCount int
 }
 
 func NewCount() *Count {

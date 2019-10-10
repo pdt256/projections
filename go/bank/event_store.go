@@ -16,7 +16,7 @@ type eventStore struct {
 func NewEventStore(projections ...Projection) *eventStore {
 	store := &eventStore{
 		projections: projections,
-		eventTypes: map[string]reflect.Type{},
+		eventTypes:  map[string]reflect.Type{},
 	}
 
 	store.Bind(
@@ -87,4 +87,3 @@ func (s *eventStore) project(event Event) {
 		projection.Accept(event)
 	}
 }
-
