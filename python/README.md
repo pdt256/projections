@@ -1,3 +1,7 @@
 # Projections in Python
 
-TODO
+Run Projects
+```
+cd src
+python3 main.py
+```
