@@ -4,7 +4,7 @@
 
 * [Go](go/bank/README.md)
 * [PHP](php/README.md)
-* [Python](python/README.md) TODO
+* [Python](python/README.md)
 * [Java](java/README.md) TODO
 * [Javascript](javascript/README.md)
 
