@@ -3,8 +3,9 @@
 ## Pick a Language
 
 * [Go](go/bank/README.md)
-* [Pyhon](python/README.md)
-* [Java](java/README.md)
+* [Python](python/README.md) TODO
+* [Java](java/README.md) TODO
+* [Javascript](javascript/README.md)
 
 ## Basic
 
