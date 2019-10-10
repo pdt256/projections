@@ -1,6 +1,7 @@
 # Projections in Python
 
-Run Projects
+## Run Projections
+
 ```
 cd src
 python3 main.py
